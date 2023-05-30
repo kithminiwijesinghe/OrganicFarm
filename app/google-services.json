@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "882333940154",
+    "project_id": "oraganic-farm",
+    "storage_bucket": "oraganic-farm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882333940154:android:ce833852ffd95f42518583",
+        "android_client_info": {
+          "package_name": "c0m.company.organicfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882333940154-4ajgau34ehl2j514qipcp80stodi3etf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5qjgbV7NvoMvwX4dbsiZcAJgSJk7zPbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882333940154-4ajgau34ehl2j514qipcp80stodi3etf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882333940154:android:ce12ea948ec6f747518583",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882333940154-4ajgau34ehl2j514qipcp80stodi3etf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5qjgbV7NvoMvwX4dbsiZcAJgSJk7zPbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882333940154-4ajgau34ehl2j514qipcp80stodi3etf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
